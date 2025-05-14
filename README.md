@@ -1,2 +1,2 @@
 # nvidia
-nvidia
+nvidia dll
